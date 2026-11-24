@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BTR Admin Dashboard</title>
+<style>
+body{margin:0;background:#07152f;color:white;font-family:Arial;padding:20px}
+header{border-bottom:1px solid #b99a4b;padding:15px 0}
+h1{color:#e3c36e}
+.card{background:#102448;padding:22px;border:1px solid #b99a4b;border-radius:12px;margin-top:25px}
+a{color:#e3c36e}
+</style>
+</head>
+<body>
+<header>
+<h1>BTR Admin Dashboard</h1>
+<p>Administrator Panel</p>
+</header>
+<div class="card">
+<h2>স্বাগতম!</h2>
+<p>BTR অ্যাডমিন ড্যাশবোর্ডে তোমাকে স্বাগতম।</p>
+<p>এটি প্রাথমিক ড্যাশবোর্ড।</p>
+<a href="/admin/logout">লগআউট</a>
+</div>
+</body>
+</html>
